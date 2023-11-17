@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenT1</string>
+    <string name="restName">Restaurante Canela</string>
+    <string name="introName">Introduce tu nombre</string>
+    <string name="tabTwo">2 asientos</string>
+    <string name="tabFour">4 asientos</string>
+    <string name="tabEight">8 asientos</string>
+
+</resources>
